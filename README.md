@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[kondoora](001.mp3) and ![koondoora](001.mp3)
+[kondoora](https://github.com/Logoori/Logoori.github.io/001.mp3) and ![koondoora](https://github.com/Logoori/Logoori.github.io/001.mp3)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
