@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the Logoori Pages
+
+This is the main page for material from the Logoori project.
 
 You can use the [editor on GitHub](https://github.com/Logoori/Logoori.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
