@@ -1,43 +1,6 @@
-## Welcome to the Logoori Pages
+# The Logoori Project
 
-This is the main page for material from the Logoori project.  avarógoori vamórómaa llógoori. You can listen [here](https://logoori.github.io/4TestJS.htm) to some words.
-
-You can use the [editor on GitHub](https://github.com/Logoori/Logoori.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+This is the main page for Dave Odden's project on Logoori. I have been working on a description of Logoori, one of the Luhya languages of Kenya. This is part of a wider project on Luhya languages, in collaboration with [Michael Marlo](https://sites.google.com/site/michaelrmarlo/), [Michael Diercks](http://pages.pomona.edu/~mjd14747/index.html), [Chris Green](http://thecollege.syr.edu/people/faculty/pages/lang/green-christopher.html), [Kris Ebarb](https://sites.google.com/site/kjebarb/) and others. 
 
 
-```
 
-[kondoora](https://github.com/Logoori/Logoori.github.io/blob/master/001.mp3/) 
-
-Also ![koondoora](https://github.com/Logoori/Logoori.github.io/blob/master/001.mp3/)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Logoori/Logoori.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
