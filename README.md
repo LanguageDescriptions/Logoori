@@ -4,6 +4,7 @@ This is the main page for Dave Odden's project on Logoori. I have been working o
 
 __*[This paper](https://Languagedescriptions.github.io/Logoori/WritingtheLogoorilanguage)*__ is especially intended for speakers of Logoori who might learn about the project. When I write about Logoori, I have to use a special system for writing that reports how words are pronounced. Speakers of Logoori implicitly know some very complex rules regarding vowel quality, length, tone and many other things, but generally do not know that their language uses tone and other such features. On that page, I present the main aspects of the writing system for this work, along with sample recordings that you can listen to in order to better understand what I mean by "tone", "vowel length" and so on.
 
+Most materials can be accessed ... oh what if I add an index file here??
 Chapters of the grammatical description of Logoori can be found here. At present, you can get the following files:
 *[Introduction](https://Languagedescription.github.io/Logoori/01Introduction.pdf)*. But I bet I have to use html to get it to display.
 
