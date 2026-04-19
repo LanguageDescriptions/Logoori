@@ -3,3 +3,4 @@ https://languagedescriptions.github.io/Logoori/WritingtheLogoorilanguage/index.h
 https://languagedescriptions.github.io/Logoori/Grammar/index.html
 https://languagedescriptions.github.io/Logoori/LogooriTexts/index.html
 https://languagedescriptions.github.io/Logoori/OnlineDictionary/index.html
+https://languagedescriptions.github.io/Logoori/OnlineDictionary/LogooriDict.html
